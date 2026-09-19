@@ -1,5 +1,5 @@
 #SIMULACION DE EMBALSE   
-
+JHONATAN CAMACHO- CODIGO 20261579034
 En la ingeniería civil, la gestión de recursos hídricos y el diseño de obras de infraestructura enfrentan el problema crítico de modelar terrenos irregulares para calcular con precisión la capacidad de almacenamiento de agua y la respuesta hidrológica ante eventos climáticos extremos. Los métodos geométricos tradicionales resultan imprecisos frente a topografías complejas tomadas con tecnología moderna como LiDAR o drones, lo que dificulta predecir el comportamiento real de un embalse. La aplicación de este algoritmo resuelve esta problemática al procesar mallas tridimensionales del terreno para obtener la curva exacta de elevación-volumen y determinar la cota útil de almacenamiento; al integrar datos de precipitación y escorrentía, permite a los ingenieros simular en tiempo real la velocidad de llenado del vaso ante tormentas, calcular el tiempo hasta el desborde y dimensionar adecuadamente vertederos y presas para prevenir fallas catastróficas
 
 ## ¿Qué hace?
