@@ -1,12 +1,5 @@
-# Simulación de Embalse — Método de Malla 3D (Tesis Ohanian)
-
-Modelo en Python para calcular el volumen almacenado en un embalse a partir
-de una malla poliedral 3D (triángulos), y simular el tiempo que tardaría en
-desbordarse ante un evento de lluvia, usando el **Método Racional**.
-
-Basado en los algoritmos de la tesis de Ohanian (Virginia Tech) sobre cálculo
-de volumen de sólidos mediante proyección central y *slicing* con capping de
-malla (Capítulos 3 y 4).
+#SIMULACION DE EMBALSE
+En la ingeniería civil, la gestión de recursos hídricos y el diseño de obras de infraestructura enfrentan el problema crítico de modelar terrenos irregulares para calcular con precisión la capacidad de almacenamiento de agua y la respuesta hidrológica ante eventos climáticos extremos. Los métodos geométricos tradicionales resultan imprecisos frente a topografías complejas tomadas con tecnología moderna como LiDAR o drones, lo que dificulta predecir el comportamiento real de un embalse. La aplicación de este algoritmo resuelve esta problemática al procesar mallas tridimensionales del terreno para obtener la curva exacta de elevación-volumen y determinar la cota útil de almacenamiento; al integrar datos de precipitación y escorrentía, permite a los ingenieros simular en tiempo real la velocidad de llenado del vaso ante tormentas, calcular el tiempo hasta el desborde y dimensionar adecuadamente vertederos y presas para prevenir fallas catastróficas
 
 ## ¿Qué hace?
 
